@@ -10,7 +10,7 @@
    android:name="io.flutter.app.FlutterApplication"
         android:label="Infinity Box"
         android:requestLegacyExternalStorage="true"
-        android:icon="@mipmap/ic_launcher_logo.png">
+        android:icon="@mipmap/ic_launcher_logo">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
